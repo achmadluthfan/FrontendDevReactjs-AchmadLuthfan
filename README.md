@@ -11,7 +11,7 @@
 1. Clone repository:
    ```bash
    git clone https://github.com/achmadluthfan/FrontendDevReactjs-AchmadLuthfan.git
-   cd sekawan-media
+   cd FrontendDevReactjs-AchmadLuthfan
    ```
 2. Install dependencies:
    ```bash
