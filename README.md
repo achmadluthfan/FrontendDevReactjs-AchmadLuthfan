@@ -10,8 +10,8 @@
 
 1. Clone repository:
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git clone https://github.com/achmadluthfan/sekawan-media.git
+   cd sekawan-media
    ```
 2. Install dependencies:
    ```bash
