@@ -10,7 +10,7 @@
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/achmadluthfan/sekawan-media.git
+   git clone https://github.com/achmadluthfan/FrontendDevReactjs-AchmadLuthfan.git
    cd sekawan-media
    ```
 2. Install dependencies:
